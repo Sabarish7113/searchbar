@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    margin-left: 500px;
+    align-items: center;
+    border: solid 10px whitesmoke;
+    width: 23.2rem;
+}
+input
+{
+    margin: 0px;
+    padding: 0px;
+    height: 3.5rem;
+    width: 20rem;
+    font-size: x-large;
+}
+button
+{
+    margin-bottom: -10px;
+    margin-left: -5px;
+    padding: 0px;
+    height: 3.5rem;
+    width: 3rem;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
